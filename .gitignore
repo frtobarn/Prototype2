@@ -1,0 +1,10 @@
+Library/
+Builds/
+UserSettings/
+Packages/
+Logs/
+Unity/
+.vscode/
+Assembly-CSharp.csproj
+Temp/
+Prototipo2.sln
