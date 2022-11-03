@@ -7,7 +7,7 @@ public class PlayerController : MonoBehaviour
     public GameObject projectilePrefab;
     private float xRange = 20.0f;
     public float horizontalInput;
-    private float speed = 10.0f;
+    private float speed = 20.0f;
     // Start is called before the first frame update
     void Start()
     {
