@@ -145,7 +145,7 @@ GameObject:
   - component: {fileID: 5950374103786563032}
   m_Layer: 0
   m_Name: Chicken
-  m_TagString: Untagged
+  m_TagString: Animal
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -159,8 +159,8 @@ Transform:
   m_GameObject: {fileID: 3121502075958821795}
   m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
   m_LocalPosition: {x: 0, y: 0.1, z: 20.8}
-  m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 0.25, y: 0.25, z: 0.25}
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 3121502075958853807}
   - {fileID: 3121502075958961439}
